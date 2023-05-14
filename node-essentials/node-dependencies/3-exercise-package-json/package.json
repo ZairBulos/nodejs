@@ -1,0 +1,13 @@
+{
+  "name": "tailwind-trader-api",
+  "version": "1.0.0",
+  "description": "API HTTP para administrar elementos de la base de datos de Tailwind Traders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "keywords": ["api", "base de datos"],
+  "author": "Zair",
+  "license": "ISC"
+}
